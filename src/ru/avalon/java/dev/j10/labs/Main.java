@@ -1,5 +1,6 @@
 package ru.avalon.java.dev.j10.labs;
 
+import java.lang.Math.*;
 import ru.avalon.java.dev.j10.labs.shapes.*;
 
 public class Main {
